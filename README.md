@@ -1,4 +1,5 @@
-# raspberry-pi
+# 基于树莓派的嵌入式Python控制程序
+
 - [树莓派了解.官网]https://www.raspberrypi.org/
 - [树莓派了解.中文网]https://pico.org.cn/
 
