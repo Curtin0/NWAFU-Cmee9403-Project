@@ -1,8 +1,9 @@
 # 基于树莓派的嵌入式Python控制程序
 
+- [实用新型专利]http://www.soopat.com/Patent/201920550981
+- [论文终稿](docs/)
 #### 软件介绍
 - [Python语言第三方库:RPI.GPIO]https://pypi.org/project/RPi.GPIO/  
-
 #### 硬件介绍
 - [树莓派了解-官网]https://www.raspberrypi.org/
 - [树莓派了解-中文网]https://pico.org.cn/
