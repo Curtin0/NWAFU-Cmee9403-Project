@@ -1,0 +1,24 @@
+RuntimeError: No access to /dev/mem.  Try running as root!
+
+
+https://www.pyimagesearch.com/2016/05/02/accessing-rpi-gpio-and-gpio-zero-with-opencv-python/
+
+
+sudo adduser my_new_user gpio
+
+
+sudo chown root.gpio /dev/mem
+sudo chmod g+rw /dev/mem
+
+
+sudo chown root.gpio /dev/mem && sudo chmod g+rw /dev/mem
+
+
+sudo groupadd gpio
+sudo usermod -a -G gpio user_name
+sudo grep gpio /etc/group
+sudo chown root.gpio /dev/gpiomem
+sudo chmod g+rw /dev/gpiomem
+
+
+sudo /usr/local/python371/bin/ipython
