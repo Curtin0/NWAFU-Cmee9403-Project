@@ -7,8 +7,6 @@
 #### 硬件介绍
 - [树莓派了解-官网](https://www.raspberrypi.org/)
 - [树莓派了解-中文网](https://pico.org.cn/)
-- 树莓派图片  
-  ![1](https://user-images.githubusercontent.com/49359900/163515045-5018c9af-9a08-493d-85ab-49604b10f132.jpg)
 - 管脚定义图     
 ![20140221232529_95368](https://user-images.githubusercontent.com/49359900/163514460-57cdfb28-bf7e-4db6-8bda-3214e578062c.png)
 - 针脚图   
