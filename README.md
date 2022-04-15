@@ -4,7 +4,8 @@
 - [树莓派了解-中文网]https://pico.org.cn/
 
 - 管脚定义图
-![Uploading image.png…]()
+![20140221232529_95368](https://user-images.githubusercontent.com/49359900/163514460-57cdfb28-bf7e-4db6-8bda-3214e578062c.png)
+
 
 - 一些当时的照片，2019年，那时还没有疫情。
 
